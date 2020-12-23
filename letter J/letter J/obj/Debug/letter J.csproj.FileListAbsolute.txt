@@ -1,0 +1,7 @@
+D:\Draw with C#\letter J\letter J\bin\Debug\letter J.exe.config
+D:\Draw with C#\letter J\letter J\bin\Debug\letter J.exe
+D:\Draw with C#\letter J\letter J\bin\Debug\letter J.pdb
+D:\Draw with C#\letter J\letter J\obj\Debug\letter J.csprojAssemblyReference.cache
+D:\Draw with C#\letter J\letter J\obj\Debug\letter J.csproj.CoreCompileInputs.cache
+D:\Draw with C#\letter J\letter J\obj\Debug\letter J.exe
+D:\Draw with C#\letter J\letter J\obj\Debug\letter J.pdb
